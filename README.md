@@ -1,4 +1,4 @@
-# Splunk Deploy
+# Splunk Ansible Playbooks
 
 Automate the deployment of Splunk Enterprise and Universal Forwarders on Linux infrastructure using Ansible.
 
